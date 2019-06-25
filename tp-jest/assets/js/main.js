@@ -1,7 +1,6 @@
 // TODO: Import jQuery
 // TODO: Import replaceImages (local)
 // TODO: Replace anonymous functions: " function() " → " () => "
-// TODO: Create tests
 
 function getImage(src) {
     return $('<img>')
