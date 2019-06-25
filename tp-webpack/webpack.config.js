@@ -10,7 +10,6 @@ module.exports = {
   },
   module: {
     rules: [
-      { test: /\.txt$/, use: 'raw-loader' },
       {
         test: /\.css$/i,
         use: ['style-loader', 'css-loader'],
