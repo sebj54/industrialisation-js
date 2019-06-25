@@ -14,7 +14,7 @@ Les TP de ce module ont pour but de mettre en pratique les différentes techniqu
 
 ### TP 0
 
-**Dossier**: `tp-0`.
+**Dossier :** `tp-0`.
 
 Ce dossier contient les fichiers de base, non industrialisés. Ils vont nous permettre de mettre en place les différentes techniques.
 
@@ -24,7 +24,7 @@ Le fichier `assets/js/main.js` remplace toutes les images (SVG placeholders) par
 
 ### TP NPM
 
-**Dossier**: `tp-npm`.
+**Dossier :** `tp-npm`.
 
 Ce TP a pour but de remplacer tous les liens pointant vers des CDN :
 
@@ -48,7 +48,7 @@ npm ci
 
 ### TP Gulp
 
-**Dossier**: `tp-gulp`.
+**Dossier :** `tp-gulp`.
 
 Ce TP a pour but de produire un dossier `dist` contenant toutes les ressources à utiliser pour la mise en ligne du site.
 
@@ -72,7 +72,7 @@ gulp
 
 ### TP Webpack
 
-**Dossier**: `tp-webpack`.
+**Dossier :** `tp-webpack`.
 
 Ce TP a pour but de produire un dossier `dist` contenant notre fichier `index.html` et un bundle à utiliser pour la mise en ligne du site.
 
@@ -93,7 +93,7 @@ npm run build
 
 ### TP Jest
 
-**Dossier**: `tp-jest`.
+**Dossier :** `tp-jest`.
 
 Ce TP a pour but d'ajouter des tests à notre site. Dans cet exemple, seuls les tests pour la fonction `getImage` sont ajoutés.
 
